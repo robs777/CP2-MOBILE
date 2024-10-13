@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cp2Mobile</string>
+
+    <string name="ConfirmarRegiao">Confirmar Região</string>
+    <string name="MaisComprado">Mais Comprado</string>
+    <string name="Historico">Histórico:</string>
+
+
+</resources>
